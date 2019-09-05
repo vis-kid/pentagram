@@ -1,12 +1,25 @@
 --- 
-title:           Coby Chapple 
-interviewee:     Coby Chapple 
-topic_list:     Working @ GitHub | Designer skills | GitHub company summits 
-tags:            Coby Chapple , Working  GitHub , Designer skills , GitHub company summits 
-soundcloud_id:  179961902
-date:           2014-12-02
-episode_number: 3
-category: Design
+title:          04 | Randy J. Hunt
+interviewee:    Randy J. Hunt
+topic_list:     Grab
+tags:           Randy J. Hunt, Etsy, Randy Hunt, Grab, Branding
+soundcloud_id:  676661709
+date:           2019-09-09 14:40:44
+episode_number: 4
+category: features
 ---
 
-<p class="show_notes_display"><b>Questions:</b><br>- What’s it like to work at GitHub?<br>- How’s the tone internally at GitHub?<br>- What does a designer need to be capable of at GitHub?<br>- What happens at company summits?<br><br><b>Links:</b><br><a rel="nofollow" target="_blank" href="http://cobyism.com/">Coby Chapple</a><br>Coby Chapple on <a rel="nofollow" target="_blank" href="https://twitter.com/cobyism">Twitter</a><br>Coby Chapple on <a rel="nofollow" target="_blank" href="https://github.com/cobyism">GitHub</a><br>Coby Chapple on <a rel="nofollow" target="_blank" href="https://dribbble.com/cobyism">Dribbble</a><br>How design happnes @ GitHub: <a rel="nofollow" target="_blank" href="https://speakerdeck.com/cobyism/how-design-happens-at-github-scotlandjs-2014">Slides</a>, <a rel="nofollow" target="_blank" href="http://vimeo.com/96430140">Video</a><br>How GitHub works: <a rel="nofollow" target="_blank" href="https://speakerdeck.com/cobyism/how-github-works-github-kaigi-tokyo-2014">Slides</a></p>
+### Questions:
+- Why did you decide to move to Singapore and open a branch of EdenSpiekermann over there?
+- Was Tokyo also on the shortlist of possible destinations?
+- What is EdenSpiekermann working on at the moment in Singapore?
+
+### Links:
+
+[Edo van Dijk](https://www.edenspiekermann.com/people/edo-van-dijk/)<br>
+[EdenSpiekermann](https://www.edenspiekermann.com/)<br>
+[Edo van Dijk (about)](https://about.me/edoch)<br>
+Edo van Dijk on [Quora](https://www.quora.com/profile/Edo-van-Dijk)<br>
+Edo van Dijk on [Twitter](https://twitter.com/edoch?lang=de)<br>
+Edo van Dijk on [Dribbble](https://dribbble.com/edoch)<br>
+[Quokka](https://dribbble.com/shots/2731391-Quokka-Logo)<br>

@@ -1,12 +1,26 @@
 --- 
-title:           Avdi Grimm 
-interviewee:     Avdi Grimm 
-topic_list:      What is Rake | Origins | Jim Weirich | Common use cases | Advantages of Rake
-tags:            Avdi Grimm , What is Rake , Origins , Jim Weirich , Common use cases , Advantages of Rake
-soundcloud_id:  179619755
-date:           2014-12-01
+title:           01 | Aaron Draplin
+interviewee:     Aaron Draplin
+topic_list:      Draplin Design Company | Field Notes
+tags:            Aaron Draplin , DDC, Draplin Design Company, Field Notes, Junking, Branding, Logos
+soundcloud_id:   676660569
+date:           2019-09-09 14:40:41
 episode_number: 1
-category: amas
+category: features
 ---
 
-<p class="show_notes_display"><b>Questions:</b><br>- What is Rake?<br>- What can you tell us about the origins of Rake?<br>- What can you tell us about Jim Weihrich?<br>- What are the most common use cases for Rake?<br>- What are the most notable advantages of Rake?<br><br><b>Links:</b><br><a rel="nofollow" target="_blank" href="http://www.youtube.com/watch?v=2ZHJSrF52bc">In memory of the great Jim Weirich</a><br><a rel="nofollow" target="_blank" href="https://github.com/jimweirich/rake">Rake on GitHub</a><br><a rel="nofollow" target="_blank" href="https://github.com/jimweirich">Jim Weirich on GitHub</a><br><a rel="nofollow" target="_blank" href="http://www.youtube.com/watch?v=AFPWDzHWjEY">Basic Rake</a> talk by Jim Weirich<br><a rel="nofollow" target="_blank" href="http://www.youtube.com/watch?v=KaEqZtulOus">Power Rake</a> talk by Jim Weirich<br><a rel="nofollow" target="_blank" href="http://devblog.avdi.org/2014/04/30/learn-advanced-rake-in-7-episodes/">Learn advanced Rake in 7 episodes - from Avdi Grimm ( free )</a><br><a rel="nofollow" target="_blank" href="http://about.avdi.org/">Avdi Grimm</a><br>Avdi Grimm’s screencasts: <a rel="nofollow" target="_blank" href="http://www.rubytapas.com/">Ruby Tapas</a><br><a rel="nofollow" target="_blank" href="http://devchat.tv/ruby-rogues/">Ruby Rogues</a> podcast with Avdi Grimm<br>Great ebook: <a rel="nofollow" target="_blank" href="http://www.amazon.com/Rake-Management-Essentials-Andrey-Koleshko/dp/1783280778">Rake Task Management Essentials</a> from<a rel="nofollow" target="_blank" href="https://twitter.com/ka8725"> Andrey Koleshko</a></p>
+
+### Questions:
+- Why did you decide to move to Singapore and open a branch of EdenSpiekermann over there?
+- Was Tokyo also on the shortlist of possible destinations?
+- What is EdenSpiekermann working on at the moment in Singapore?
+
+### Links:
+
+[Edo van Dijk](https://www.edenspiekermann.com/people/edo-van-dijk/)<br>
+[EdenSpiekermann](https://www.edenspiekermann.com/)<br>
+[Edo van Dijk (about)](https://about.me/edoch)<br>
+Edo van Dijk on [Quora](https://www.quora.com/profile/Edo-van-Dijk)<br>
+Edo van Dijk on [Twitter](https://twitter.com/edoch?lang=de)<br>
+Edo van Dijk on [Dribbble](https://dribbble.com/edoch)<br>
+[Quokka](https://dribbble.com/shots/2731391-Quokka-Logo)<br>
