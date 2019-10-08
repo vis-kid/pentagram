@@ -2,7 +2,7 @@
 title:          07 | Rukmini Reddy
 interviewee:    Rukmini Reddy
 topic_list:     Abstract
-tags:           Good enough, Being scrappy, Table seat, Design beginnings, Self-made designer, Looking at nature, Walking, Open Design impact, Hearing the truth, Safe disagreements, Craziness at work, Faking meaning, Healthy organisations, Hiring, Resolving conflicts, Retirement, Pottery 
+tags:           Ratio in tech, Responsibilities, Sponsor and champion, Managing skills, Clarity, Candor and honesty, Dogfooding, Grandmother inspiration, Early passion, Vision for Abstract, Open Design, Designer developer collaboration, Valuable skills, Attitude at work, Vulnerability, Embrace the suck, Remote work, Computer science education, Encouraging women, Female leadership, Healthy diversities, Toxic behaviour, Leaving India, Fear and courage, Alone in the room, Check bias, Kindness, Great allies
 soundcloud_id:  692980096
 date:           2019-10-08
 episode_number: 7
