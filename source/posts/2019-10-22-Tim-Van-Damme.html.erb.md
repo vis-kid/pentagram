@@ -30,8 +30,8 @@ category: interviews
 
 ### Links:
 
-[Tim Van Damme](https://www.timvandamme.com/)<br>
 [Abstract](https://www.abstract.com/)<br>
+[Tim Van Damme](https://www.timvandamme.com/)<br>
 Tim Van Damme on [Twitter](https://twitter.com/maxvoltar)<br>
 Tim Van Damme on [Dribbble](https://dribbble.com/maxvoltar)<br>
 Tim Van Damme on [GitHub](https://github.com/maxvoltar)<br>
