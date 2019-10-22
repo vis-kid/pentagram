@@ -4,6 +4,7 @@ body
   background-color: #FFFFFF
 
 #logo
+  padding-top: 3px
   +media(max-width 1200px)
     +shift(1.7)
   +media(max-width 938px)
@@ -16,21 +17,20 @@ body
     +span-columns(3)
   img
     +media(max-width 435px)
-      width: 70%
-      height: 70%
       margin:
         top: 0px
     +media(max-width 830px)
       margin:
         left: 0px
     margin-left: -5px
-    height: 65px
+    height: 50px
     margin:
       left: 24px
       top: -4px
  
 header
   +outer-container
+  height: 85px
   padding:
     top: 17px
     bottom: 10px
@@ -70,8 +70,17 @@ header
   margin-bottom: 70px
 
 .hero-banner
-  +span-columns(4.5)
-  +shift(3.75)
+  +media(max-width 1200px)
+    +span-columns(8)
+    +shift(2)
+  +media(max-width 938px)
+    +span-columns(10)
+    +shift(1)
+  +span-columns(5.75)
+  +shift(3.125)
 
-.nav-bg
+.nav-bg, .hero-nav-bg
   background-color: #191A1B
+
+.hero-nav-bg
+  margin-bottom: 70px
