@@ -14,7 +14,7 @@
       color: $medium-gray
 
 .topic-list
-  color: $medium-gray
+  color: darken($medium-gray, 30%)
   line-height: 1.8em
 
 .posts, .article-detail
@@ -22,8 +22,12 @@
     font-size: 1.05em
     line-height: 1.35em
 
-.detail-post-date, .post-date
+.detail-post-date, .post-date, .tag-date
   font-size: 1.05em
+  font-family: 'Open Sans', sans-serif
+  font-family: 'GTAmericaTrial-Regular'
+  font-weight: normal
+  font-style: normal
 
 .post-date
   display: block
@@ -46,6 +50,7 @@
   font-family: 'Fira Sans', sans-serif
   -webkit-margin-after: 0em
   -webkit-margin-before: 0em
+  color: blue
   margin:
     top: em(23px)
     bottom: em(4px)

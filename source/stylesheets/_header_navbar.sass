@@ -1,20 +1,21 @@
 body
-  border-top: 1px solid rgba($brand-color, .4)
   box-shadow: 0px 1px 2px rgba(shade($brand-color, 55%), .10)
   background-color: #FFFFFF
 
 #logo
-  padding-top: 3px
+  padding-top: 9px
   +media(max-width 1200px)
-    +shift(1.7)
-  +media(max-width 938px)
-    +shift(1.6)
-  +span-columns(2)
-  +media(max-width 830px)
-    +span-columns(3.5)
     +shift(0.5)
+  +media(max-width 938px)
+    +shift(0.5)
+    +span-columns(5)
+  +media(min-width 830px)
+    padding-top: 8px
+    +span-columns(5)
+    +shift(2)
   +media(max-width 402px)
-    +span-columns(3)
+    +span-columns(5)
+    +shift(0.5)
   img
     +media(max-width 435px)
       margin:
@@ -25,8 +26,15 @@ body
     margin-left: -5px
     height: 50px
     margin:
-      left: 24px
       top: -4px
+
+#logo.heroic
+  +media(min-width 830px)
+    +shift(0)
+  +media(min-width 402px)
+    +span-columns(5)
+    +shift(0.5)
+
  
 header
   +outer-container
@@ -34,7 +42,7 @@ header
   padding:
     top: 17px
     bottom: 10px
-  background-color: #191A1B
+  background-color: #030104
 
 .navigation
   +media(max-width 1200px)
@@ -45,7 +53,6 @@ header
     +span-columns(7.4)
   +media(max-width 402px)
     +span-columns(8)
-  +span-columns(8)
   li
     display: inline-block
     float: right
@@ -66,7 +73,7 @@ header
 
 #hero
   +span-columns(12)
-  background-color: #191A1B
+  background-color: #030104
   margin-bottom: 70px
 
 .hero-banner
@@ -76,11 +83,18 @@ header
   +media(max-width 938px)
     +span-columns(10)
     +shift(1)
-  +span-columns(5.75)
-  +shift(3.125)
+  +span-columns(8)
+  +shift(2)
 
 .nav-bg, .hero-nav-bg
-  background-color: #191A1B
+  background-color: #030104
+
+.hero-nav-bg
+  background-color: #FFFFFF
 
 .hero-nav-bg
   margin-bottom: 70px
+
+.white
+  background-color: #FFFFFF
+  overflow: hidden
