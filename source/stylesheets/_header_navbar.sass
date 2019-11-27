@@ -29,11 +29,17 @@ body
       top: -4px
 
 #logo.heroic
-  +media(min-width 830px)
-    +shift(0)
   +media(min-width 402px)
     +span-columns(5)
-    +shift(0)
+    +shift(0.5)
+  +media(min-width 830px)
+    +shift(2)
+  +media(min-width 1200px)
+    +shift(0.5)
+  +media(min-width 1500px)
+    +shift(-1)
+  +media(min-width 1800px)
+    +shift(-2)
 
  
 header
