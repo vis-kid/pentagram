@@ -4,13 +4,23 @@ per_page: 12
 ---
 <h1 class='tag-header'>Episodes tagged: <span class='tagname'><%= tagname %></span></h1>
 
+<% if false %>
 <ul class='tag-list'>
-  <% page_articles.each_with_index do |article, i| %>
-    <span class='tag-date' ><%= article.date.strftime('%b %e | %Y') %></span>
-    <li class='tag-list-title'><%= link_to article.title, article %></li>
-    <li class='topic-list large-bumper'><%= article.metadata[:page][:topic_list] %></li>
+<% page_articles.each_with_index do |article, i| %>
+  <%= partial "partials/index-list-item-audio", :locals => { :article => article } %>
   <% end %>
 </ul>
+<% end %>
+
+<div class='posts'>
+  <ul>
+    <% page_articles.each do |article| %>
+      <li>
+        <%= partial "partials/index-list-item-audio", :locals => { :article => article } %>
+      </li>
+    <% end %>
+  </ul>
+</div>
 
 <% if paginate && num_pages > 1 %>
   <p>Page <%= page_number %> of <%= num_pages %></p>
