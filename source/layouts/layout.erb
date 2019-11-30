@@ -7,12 +7,13 @@
     <meta name="viewport" content="initial-scale=1">
     <title>At The Table | Pentagram <%= print_title.to_s %></title>
 
-    <link type="image/ico" rel="shortcut icon" href="favicon.ico" />
-    <link type="image/ico" rel="shortcut icon" href="images/favicon.ico" />
+    <link type="image/ico" rel="shortcut icon" href="/favicon.ico" />
+    <link type="image/ico" rel="shortcut icon" href="/images/favicon.ico" />
     <link rel="icon" href="favicon.ico" type="image/ico" />
     <link rel="shortcut icon" href="favicon.ico" type="image/ico" />
     <link rel="preload" as="font" href="/fonts/custom-font.woff2" type="font/woff2" crossorigin="anonymous">
     <link rel="preload" as="font" href="/fonts/custom-font.woff" type="font/woff" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.typekit.net/mcx1sqx.css">
 
     <%= feed_tag :atom, "#{blog.options.prefix.to_s}/feed.xml", title: "Atom Feed" %>
     <%= stylesheet_link_tag "all" %>
